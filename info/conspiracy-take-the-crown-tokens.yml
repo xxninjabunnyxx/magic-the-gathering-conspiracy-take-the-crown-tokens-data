@@ -1,0 +1,18 @@
+---
+object: set
+id: 05253e32-2e5b-41e3-8be4-c55cd31fe5fd
+code: tcn2
+name: 'Conspiracy: Take the Crown Tokens'
+uri: https://api.scryfall.com/sets/05253e32-2e5b-41e3-8be4-c55cd31fe5fd
+scryfall_uri: https://scryfall.com/sets/tcn2
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atcn2&unique=prints
+released_at: '2016-08-26'
+set_type: token
+card_count: 12
+parent_set_code: cn2
+digital: false
+nonfoil_only: true
+foil_only: false
+block_code: cns
+block: Conspiracy
+icon_svg_uri: https://svgs.scryfall.io/sets/cn2.svg?1694404800
